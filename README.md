@@ -25,4 +25,6 @@ Accepts an item name, quantity and unit price, then calculates the total cost.
 Java
 
 ## Student
-Ogundein Oluwakunmi Joel
+NAME:      Ogundein Oluwakunmi Joel
+MATRIC:    25/17606
+PROGRAMME: CYBERSECURITY 
